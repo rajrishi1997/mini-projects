@@ -1,2 +1,2 @@
 # projects
-This repository contains mini projects in machine learning with notebook files.
+This repository contains mini projects in data analysis and machine learning with notebook files.
